@@ -17,6 +17,7 @@ Contents:
    external
    questions
    ondefice
+   erros_communs
 
 Topics
 ==================
