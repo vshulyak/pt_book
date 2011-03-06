@@ -46,7 +46,7 @@ html:
 ghdocs:
 	rm -rf $(tmp_docs_dir)
 	mkdir $(tmp_docs_dir)
-	$(MAKE) -C $(tmp_docs_dir) html
+	$(MAKE) html
 	cp -r build/html $(tmp_docs_dir)
 	mv $(tmp_docs_dir)/_static $(tmp_docs_dir)/static
 	mv $(tmp_docs_dir)/_sources $(tmp_docs_dir)/sources
