@@ -57,7 +57,7 @@ ghdocs:
 	cp -rf $(tmp_docs_dir)/* .
 	rm -rf build
 	git add -A
-	git commit -a -m 'Updates $(project) documentation.'
+	git commit -a -m 'Updates $(project) documentation.' && 2> cat
 	git checkout master
 	rm -rf $(tmp_docs_dir)
 
