@@ -55,6 +55,7 @@ ghdocs:
 	git checkout gh-pages
 	rm -r sources static & 2>/dev/null
 	cp -rf $(tmp_docs_dir)/* .
+	rm -rf build
 	git add -A
 	git commit -a -m 'Updates $(project) documentation.'
 	git checkout master
