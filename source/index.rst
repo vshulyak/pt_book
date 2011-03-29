@@ -11,19 +11,30 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   numbers
-   verbs
-   articles
-   external
-   questions
-   ondefice
-   erros_communs
+   topics/articles
+   topics/erros_communs
+   topics/gratitude
+   topics/greetings
+   topics/imperativo
+   topics/numbers
+   topics/ondefica
+   topics/phrase_box
+   topics/pronomes
+   topics/questions
+   topics/resources
+   topics/revise
+   topics/time
+   topics/verbos_comuns
+   topics/verbs_eng_pt
+   topics/verbs
+   topics/words_box
+
 
 Topics
 ==================
 
-* :doc:`numbers`
-* :doc:`verbs`
+* :doc:`topics/numbers`
+* :doc:`topics/verbs`
 
 
 Indices and tables
