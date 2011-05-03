@@ -1,0 +1,2 @@
+**Pretérito imperfeito**, *ações inacabadas*
+============================================
