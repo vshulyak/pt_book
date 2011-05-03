@@ -15,6 +15,10 @@ escutar - listen. Escuta! ....
 
 tou ou estou - tou - short form. Esta aqui? Tou/Nao tou
 
+ter de / tive de
+ter que / tive que
+
+
 
 Vebos regulares no Presente do Indicativo.
 ------------------------------------------

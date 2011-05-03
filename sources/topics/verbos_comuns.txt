@@ -2,14 +2,15 @@ Verbos
 ======
 
 Change - Mudar
-Take
-Belong
+Take 
+Belong - pertencer
 Put
 begin
 bring
 build
 burn
-buy
+buy    - comprar
+pay    - pagar
 catch
 choose
 come
