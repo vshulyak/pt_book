@@ -48,10 +48,6 @@ ghdocs:
 	mkdir $(tmp_docs_dir)
 	$(MAKE) html
 	cp -r build/html/* $(tmp_docs_dir)
-	mv $(tmp_docs_dir)/_static $(tmp_docs_dir)/static
-	mv $(tmp_docs_dir)/_sources $(tmp_docs_dir)/sources
-	perl -pi -e "s/_sources/sources/g;" $(tmp_docs_dir)/*.html
-	perl -pi -e "s/_static/static/g;" $(tmp_docs_dir)/*.html
 	git checkout gh-pages
 	rm -r sources static & 2>/dev/null
 	cp -rf $(tmp_docs_dir)/* .
