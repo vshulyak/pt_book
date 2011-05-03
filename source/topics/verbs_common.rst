@@ -1,0 +1,4 @@
+Verbs common
+============
+
+entender -- entendido
