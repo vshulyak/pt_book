@@ -6,35 +6,84 @@
 Welcome to Portuguese help's documentation!
 ===========================================
 
-Contents:
+See headings below to find out more!
+
+
+Tempos
+-------------
+
+Há três tempos e diversos aspectos.
+
+.. toctree::
+   :maxdepth: 1
+
+   tempos/presente  
+   tempos/preterito_perfeito
+   tempos/preterito_imperfeito  
+   tempos/preterito_mais_que_perfeito  
+   tempos/futuro_do_presente  
+   tempos/futuro_do_preterito  
+
+**E mais**:
+
+.. toctree::
+   :maxdepth: 1
+
+   tempos/ajuda_perfeito_imperfeito
+
+
+Verbos
+-------------
+
+Na língua portuguesa, os verbos são divididos em seis modos.
 
 .. toctree::
    :maxdepth: 2
-   
-   topics/articles
-   topics/erros_communs
-   topics/gratitude
-   topics/greetings
-   topics/imperativo
-   topics/numbers
-   topics/ondefica
-   topics/phrase_box
-   topics/pronomes
-   topics/questions
-   topics/resources
-   topics/revise
-   topics/time
-   topics/verbos_comuns
-   topics/verbs_eng_pt
-   topics/verbs
-   topics/words_box
+   :glob:
+
+   verbos/*
+
+
+
+Gramatica
+---------
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   gramatica/*
+
+
+Vocabulário
+-----------
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   vocabulario/*
 
 
 Topics
-==================
+-------------
 
-* :doc:`topics/numbers`
-* :doc:`topics/verbs`
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   topics/*
+   revise
+   resources
+
+
+Textos
+-------------
+
+.. toctree::
+   :maxdepth: 1
+
+   textos/fimdetarde
 
 
 Indices and tables

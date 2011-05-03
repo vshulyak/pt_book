@@ -1,5 +1,9 @@
+**Préterito mais-que-perfeito**, *ação anterior a uma já acabada*
+=================================================================
+
+
 Pretérito mais-que-perfeito composto do Indicativo
-==================================================
+--------------------------------------------------
 
 Forma-se com o verbo auxuliar **ter**, conjugado no **Imperfeito** + o **Particípio Passado** do verbo principal.
 

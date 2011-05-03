@@ -1,5 +1,5 @@
-Infinitivo
-==========
+**Infinitivo**, *formas verbais que não exprimem nada autónomos*
+================================================================
 
 Infinitivo Pessoal
 ------------------
@@ -17,26 +17,32 @@ eles/elas/vocês  -em               falar\ **em**
 O **Infinitivo Pessoal** usa-se quando o verboe se refere a um sujeito *determinado* e depois de:
 
 1. Expressões impessoais: 
+
   * **É possível...**
   * **É importante...**
   * **É necessário...**
   * **É difícil...**
   * ...similais...
 
-Exemplos:
+.. note::
 
-  * **É importante falarmos** mais do que uma língua.
-  * **É bom usares** a Lista das Páginas Amarelas.
+   Exemplos:
+
+     * **É importante falarmos** mais do que uma língua.
+     * **É bom usares** a Lista das Páginas Amarelas.
+
 
 2. Preposições ou locuções prepositivas: **ao**, **para**, **por**, **até**, **sem**, **antes de**, **depois de**, **no case de**, **apesar de**...
 
-Exemplos:
+.. note::
 
-  * **Para viajares** de avião tens de ter o passaporte ou o bilhete de identidade.
-  * **No caso de precisarem** de ajuda, podem contar comigo.
-  * **Ao entrar** em casa, ouvi um barulho estranho.
-  * **No caso de chover**, levo o gurda-chuva.
-  * Ele não vai trabalhar, *por* ele **estar** doente.
+   Exemplos:
+
+     * **Para viajares** de avião tens de ter o passaporte ou o bilhete de identidade.
+     * **No caso de precisarem** de ajuda, podem contar comigo.
+     * **Ao entrar** em casa, ouvi um barulho estranho.
+     * **No caso de chover**, levo o gurda-chuva.
+     * Ele não vai trabalhar, *por* ele **estar** doente.
 
 Note:
   A verb is changing only after prepositions, it stays the same in the other part of a sentence.

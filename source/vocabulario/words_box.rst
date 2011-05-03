@@ -37,6 +37,6 @@ Não, não me importo                      I don't care
 úteis                                    useful                                   Acha que os telemóveis são úteis
 imprescindíve                            indispensable/незаменимый
 vantagens/desvantagens                   advantages/disadvantages
-
+======================================== ======================================== ==================================================================
 
 
